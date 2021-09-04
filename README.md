@@ -59,7 +59,7 @@ python3 -m pip install scipy
 1. Clone the repository from github
 
 ```
-git clone https://github.com/lukasg96/z0-precisionmeasurement.git
+git clone https://github.com/PhilippBronner/Z0-precisionmeasurement.git
 ```
 
 # Usage
@@ -79,5 +79,5 @@ Philipp Bronner: [philippbronner-at-t-online.de](http://philippbronner-at-t-onli
 
 Lukas Grunwald: [lukas-at-grunwald-elzach.de](http://lukas-at-grunwald-elzach.de)
 
-Project Link: https://github.com/lukasg96/z0-precisionmeasurement.git
+Project Link: https://github.com/PhilippBronner/Z0-precisionmeasurement.git
 
